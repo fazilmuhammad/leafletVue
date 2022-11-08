@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "leaflet": "latest",
+    "vue": "2.6.11",
+    "vue2-leaflet": "2.5.2"
+  }
+}
